@@ -24,9 +24,9 @@
   - npm install console.table --save
 
   ## Usage:
-  Run database, schema, and seed files by running the following commands in mysql shell 	
+  Run database, schema, and seed files by running the following commands in mysql shell and Navigate to db/connection.js 	
   - source db/schema.sql
-  - source db/seeds.sqlNavigate to db/connection.js 
+  - source db/seeds.sql
   - input your my sql user and password,							
 
   ## License:
@@ -37,6 +37,11 @@
 
   ## Testing:
   N/A
+  
+  ## Screenshots:
+  ![screenshot]() 
+  ![screenshot]() 
+  ![screenshot]() 
 
   ## Video:
   [Walk-through Video Link](https://drive.google.com/file/d/1tEn1aJhOpCH2vjabBdbDpyOZDN2rbDJV/view)
