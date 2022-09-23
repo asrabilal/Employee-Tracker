@@ -38,11 +38,13 @@
   ## Testing:
   N/A
   
+  
   ## Screenshots:
-  ![screenshot](./Assets/Mysqlscreenshot-1.1.png) 
-  ![screenshot](./Assets/Mysqlscreenshot-1.2.png) 
-  ![screenshot](./Assets/Mysqlscreenshot-1.3.png)
-
+  ![screenshot](./Assets/Mysql%20screenshot-1.1.png) 
+  ![screenshot](./Assets/Mysql%20screenshot-1.2.png) 
+  ![screenshot](./Assets/Mysql%20screenshot-1.3.png)
+  
+  
   ## Video:
   [Walk-through Video Link](https://drive.google.com/file/d/1tEn1aJhOpCH2vjabBdbDpyOZDN2rbDJV/view)
    
